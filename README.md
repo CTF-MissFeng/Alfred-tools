@@ -1,5 +1,6 @@
 # Alfred-tools
 > 自己写的Alfred插件，包含时间转换/编解码/hash/ip查询等常用功能
+> 下载地址：https://github.com/CTF-MissFeng/Alfred-tools/releases
 
 ![index](https://github.com/CTF-MissFeng/Alfred-tools/blob/main/doc/1.png)
 
